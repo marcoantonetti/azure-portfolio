@@ -14,6 +14,7 @@ namespace WebApplication1.Pages
 
         public void OnGet()
         {
+            throw new Exception("Test Marco");
         }
     }
 

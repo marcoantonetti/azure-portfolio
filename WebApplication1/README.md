@@ -32,7 +32,7 @@ Using Docker
 
 Using Continuous Delivery with an automated github deployment on Azure
 
-Copy and paste the following .yaml file
+Copy and paste the following .yaml file or via Azures GUI on deployment section you can set it up automatically
 
 name: Build and deploy ASP.Net Core app to Azure Web App - portfolio-marco-ghub
 on:
